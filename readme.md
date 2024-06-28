@@ -14,7 +14,7 @@ Kullanıcı arayüzü bileşenleri, kullanıcıların kolayca gezinebileceği ve
 
 **Proje Kategorisi:** Seyahat Mobil Uygulaması <br>
 **Referans Uygulama:** https://blog.piriguide.com/ <br>
-**Uygulama Adresi:** - <br>
+**Uygulama Adresi:** https://youtu.be/hKT9fJnQvHg <br>
 **Grup Adı:** Sude <br>
 **Proje Ekibi:** Sudenaz Civelek <br>
 
